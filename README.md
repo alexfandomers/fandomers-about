@@ -5,3 +5,4 @@ This was a project developed by two technology people and two mentors. I was giv
 I also developed the logo and it's guide. This platform is timeless (fans never break down) and will have a visual identity in a random module.
 ![landing-page](https://github.com/alexfandomers/fandomers-about/blob/master/Screenshot%20(1).png)
 ![landing-page2](https://github.com/alexfandomers/fandomers-about/blob/master/Screenshot%20(2).png)
+![landing-page3](https://github.com/alexfandomers/fandomers-about/blob/master/Screenshot%20(3).png)
